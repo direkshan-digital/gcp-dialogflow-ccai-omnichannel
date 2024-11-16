@@ -6,6 +6,6 @@
     "license": "Apache Version 2.0",
     "author": "Lee Boonstra",
     "dependencies": {
-        "axios": "0.24.0"
+        "axios": "0.28.0"
     }
 }
